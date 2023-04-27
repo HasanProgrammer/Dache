@@ -1,7 +1,6 @@
 ﻿using System.Reflection;
 using Dache.Common;
 using Dache.Contracts;
-using Karami.Core.UseCase.Contracts.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json;
 

@@ -1,4 +1,4 @@
-﻿namespace Karami.Core.UseCase.Contracts.Interfaces;
+﻿namespace Dache.Contracts;
 
 public interface ICacheService
 {
