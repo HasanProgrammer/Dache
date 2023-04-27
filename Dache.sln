@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concretes", "Concretes\Conc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{FF60EE63-54E7-4335-A2DD-E87C7A178AC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commons", "Commons\Commons.csproj", "{901D4BC0-C157-4103-A46F-38BCC1C26C7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{FF60EE63-54E7-4335-A2DD-E87C7A178AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF60EE63-54E7-4335-A2DD-E87C7A178AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF60EE63-54E7-4335-A2DD-E87C7A178AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901D4BC0-C157-4103-A46F-38BCC1C26C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901D4BC0-C157-4103-A46F-38BCC1C26C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901D4BC0-C157-4103-A46F-38BCC1C26C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901D4BC0-C157-4103-A46F-38BCC1C26C7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
