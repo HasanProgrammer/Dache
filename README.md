@@ -11,7 +11,7 @@
 <br>
 ![Dache   2-2](https://user-images.githubusercontent.com/41924493/234862263-c7f1ba63-8bf0-4b7a-9e9d-e2d2d862a0ed.PNG)
 
-* Now at this stage everything is ready for you to add your caching items for which you place your queries in the Cache according to the following
+* Now at this stage everything is ready for you to add your caching items for which you place your queries in the cache according to the following
 
 ![Dache   3](https://user-images.githubusercontent.com/41924493/234863138-62df33fd-6c19-4c92-89cd-254b102b320f.PNG)
 
