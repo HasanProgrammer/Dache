@@ -1,6 +1,6 @@
 # Welcome to the Dache
 
-* To use you can get the package of this tool through Nuget
+* To use you can get the package of this tool through Nuget ( soon! )
 * In the next step you should do the following in your configuration file ( appsetting.json ) or any other configuration file
 
 ![Dache   1](https://user-images.githubusercontent.com/41924493/234861461-2fe65ef1-8750-4d62-a497-8ab6bf4e731c.PNG)
